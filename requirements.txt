@@ -1,0 +1,5 @@
+flask==3.0.0
+pymupdf==1.23.7
+genanki==0.13.1
+google-generativeai==0.3.2
+werkzeug==3.0.1
